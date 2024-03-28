@@ -9,5 +9,5 @@ Download the BRYT-Scripts.zip file from this repository.
 Extract the ZIP archive to retrieve the SQL file.
 Import the SQL file into your preferred SQL database management system to access the full dataset.
 Purpose:
-The provision of this dataset aims to facilitate the replication of our study's findings and support further research in the field. By making our data publicly available, we encourage other researchers to engage with our work, validate our conclusions, and build upon the foundation we have laid in [specific field or topic of the manuscript].
+The provision of this dataset aims to facilitate the replication of our study's findings and support further research in the field. By making our data publicly available, we encourage other researchers to engage with our work, validate our conclusions, and build upon the foundation we have laid in BRYT.
 
